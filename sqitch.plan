@@ -8,3 +8,4 @@ tables/registrations [schemas/registration] 2021-06-18T10:26:47Z Joseph Choe <jo
 roles/registration_view_data 2021-06-18T10:39:33Z Joseph Choe <joseph@josephchoe.com> # Role for registration view data
 roles/registration_resource 2021-06-18T10:39:47Z Joseph Choe <joseph@josephchoe.com> # Role for registration resource
 privileges/registration_view_data [roles/registration_view_data tables/registrations] 2021-06-18T10:48:19Z Joseph Choe <joseph@josephchoe.com> # Privileges for registration view data
+privileges/registration_resource [roles/registration_resource tables/registrations] 2021-06-18T10:54:13Z Joseph Choe <joseph@josephchoe.com> # Privileges for registration resource
